@@ -1,0 +1,7 @@
+langgraph
+crewai
+autogen
+ollama
+pytest
+pydantic
+python-dotenv
